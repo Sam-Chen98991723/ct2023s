@@ -1,0 +1,33 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs stroke="null" style="vector-effect: non-scaling-stroke;">
+  <filter stroke="null" style="vector-effect: non-scaling-stroke;" id="svg_2_blur">
+   <feGaussianBlur stroke="null" style="vector-effect: non-scaling-stroke;" stdDeviation="0.2" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <rect stroke="#000" filter="url(#svg_2_blur)" id="svg_2" height="252" width="252" y="78.9375" x="162" stroke-width="1.5" fill="#fff"/>
+  <line stroke="#000" style="vector-effect: non-scaling-stroke;" stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="162.9375" x2="416" y1="164" x1="164" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="295.9375" x2="651.5" y1="290.9375" x1="659.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" style="vector-effect: non-scaling-stroke;" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="251" x2="415" y1="252" x1="161" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="331" x2="240.5" y1="78.9375" x1="240" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="330" x2="329.5" y1="79.9375" x1="326.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_16" y="137.9375" x="181.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">人</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_17" y="304.9375" x="179.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">生</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_18" y="138.9375" x="349.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">好</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_19" y="304.9375" x="349.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">難</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_20" y="136.9375" x="261.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">資</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_21" y="223.9375" x="263.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">工</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_22" y="306.9375" x="262.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">所</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_23" y="223.9375" x="182.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">打</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="43" id="svg_24" y="223.9375" x="351.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">仔</text>
+ </g>
+</svg>
