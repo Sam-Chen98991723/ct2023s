@@ -95,7 +95,7 @@
 				"objtype": "guide",
 				"type": "vertical",
 				"name": "leftside",
-				"location": 0,
+				"location": -20,
 				"angle": false,
 				"color": "rgb(204,81,0)",
 				"visible": true,
@@ -106,7 +106,7 @@
 				"objtype": "guide",
 				"type": "vertical",
 				"name": "rightside",
-				"location": 333,
+				"location": 533.205,
 				"angle": false,
 				"color": "rgb(204,81,0)",
 				"visible": true,
@@ -128,7 +128,7 @@
 				"objtype": "guide",
 				"type": "vertical",
 				"name": "min",
-				"location": 0,
+				"location": -398.6928,
 				"angle": false,
 				"color": "rgb(255,193,153)",
 				"visible": true,
@@ -139,7 +139,7 @@
 				"objtype": "guide",
 				"type": "vertical",
 				"name": "max",
-				"location": 333,
+				"location": 513.205,
 				"angle": false,
 				"color": "rgb(255,193,153)",
 				"visible": true,
@@ -207,12 +207,63 @@
 			"rightsidebearing": false,
 			"ratiolock": false,
 			"maxes": {
-				"xmax": 0,
-				"xmin": 0,
-				"ymax": 0,
-				"ymin": 0
+				"xmax": -157.5559,
+				"xmin": -157.5559,
+				"ymax": 171.3287,
+				"ymin": 171.3287
 			},
-			"shapes": [],
+			"shapes": [
+				{
+					"objtype": "shape",
+					"name": "Shape 0",
+					"path": {
+						"objtype": "path",
+						"pathpoints": [
+							{
+								"objtype": "pathpoint",
+								"P": {
+									"objtype": "coord",
+									"x": -157.5558552447553,
+									"y": 171.32867132867133,
+									"xlock": false,
+									"ylock": false
+								},
+								"H1": {
+									"objtype": "coord",
+									"x": -332.38103006993015,
+									"y": 171.32867132867133,
+									"xlock": false,
+									"ylock": false
+								},
+								"H2": {
+									"objtype": "coord",
+									"x": 17.269319580419552,
+									"y": 171.32867132867133,
+									"xlock": false,
+									"ylock": false
+								},
+								"Q": false,
+								"type": "flat",
+								"useh1": false,
+								"useh2": false
+							}
+						],
+						"winding": -1,
+						"maxes": {
+							"xmax": -157.5559,
+							"xmin": -157.5559,
+							"ymax": 171.3287,
+							"ymin": 171.3287
+						}
+					},
+					"visible": true,
+					"xlock": false,
+					"ylock": false,
+					"wlock": false,
+					"hlock": false,
+					"ratiolock": false
+				}
+			],
 			"usedin": [],
 			"contextglyphs": "",
 			"rotationreferenceshapes": false
